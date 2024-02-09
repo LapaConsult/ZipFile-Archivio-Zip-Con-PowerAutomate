@@ -2,7 +2,7 @@
 > [!IMPORTANT]
 >  al Feb 2024 non esiste un connettore standard in PowerAutomate per elaborare un archivio Zip
 ### Ci sono Sostanzialmente 2 metodi
-1. [Creare una Funzione Azure da richiamare in PowerAutomate](https://www.damobird365.com/how-to-setup-an-azure-function-to-zip-files/){:target="_blank"} : Preferisco questa perche anche se a pagamento [potresti non pagare mai](https://azure.microsoft.com/en-us/pricing/details/functions/?ef_id=_k_CjwKCAiAiP2tBhBXEiwACslfngnkqM2FjwVhoYTkYoRoXCNvQb7FdA6gDGzWt5JfOayar4jP7EF49RoC724QAvD_BwE_k_&OCID=AIDcmmy6frl1tq_SEM__k_CjwKCAiAiP2tBhBXEiwACslfngnkqM2FjwVhoYTkYoRoXCNvQb7FdA6gDGzWt5JfOayar4jP7EF49RoC724QAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAiP2tBhBXEiwACslfngnkqM2FjwVhoYTkYoRoXCNvQb7FdA6gDGzWt5JfOayar4jP7EF49RoC724QAvD_BwE )
+1. [Creare una Funzione Azure da richiamare in PowerAutomate](https://www.damobird365.com/how-to-setup-an-azure-function-to-zip-files/) : Preferisco questa perche anche se a pagamento [potresti non pagare mai](https://azure.microsoft.com/en-us/pricing/details/functions/?ef_id=_k_CjwKCAiAiP2tBhBXEiwACslfngnkqM2FjwVhoYTkYoRoXCNvQb7FdA6gDGzWt5JfOayar4jP7EF49RoC724QAvD_BwE_k_&OCID=AIDcmmy6frl1tq_SEM__k_CjwKCAiAiP2tBhBXEiwACslfngnkqM2FjwVhoYTkYoRoXCNvQb7FdA6gDGzWt5JfOayar4jP7EF49RoC724QAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAiP2tBhBXEiwACslfngnkqM2FjwVhoYTkYoRoXCNvQb7FdA6gDGzWt5JfOayar4jP7EF49RoC724QAvD_BwE )
 2. [Usare una tattica Sharepoint](https://www.tachytelic.net/2021/07/power-automate-create-zip-file/) : Questa tattica usa il connettore standard HTTP Sharepoint in PowerAutomate quindi "Gratis"
 
 > [!WARNING]
